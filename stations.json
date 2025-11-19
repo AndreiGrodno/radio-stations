@@ -8,6 +8,10 @@
     "url": "http://178.172.150.248:2530/;"
   },
   {
+    "name": "novoeradio.by",
+    "url": "https://live.novoeradio.by:444/live/novoeradio_TOP100_aac128/icecast.audio"
+  },
+  {
     "name": "Radio Bereg HQ",
     "url": "http://radio.bereg.by:8000/HQ_320.mp3"
   }
