@@ -1,22 +1,30 @@
 [
   {
-    "name": "100FM Belarus",
-    "url": "https://radio.100fm.by:8000/100fm128"
+    "name": "Katolickie Radio Ciechanów FM",
+    "url": "https://s1.slotex.pl:7762/;"
   },
   {
-    "name": "Radio Bereg (IP)",
-    "url": "http://178.172.150.248:2530/;"
+    "name": "Katolickie Radio Zamość",
+    "url": "https://stream.rcs.revma.com/0n8y7mxcay8uv"
   },
   {
-    "name": "hitfm128",
-    "url": "https://rusradio.hostingradio.ru/hitfm128.mp3"
+    "name": "Radio Konin FM",
+    "url": "https://ml.cdn.eurozet.pl/mel-knn.mp3"
   },
   {
     "name": "chi1.party107",
     "url": "http://chi1.party107.com/Party107-192k"
   },
   {
-    "name": "Radio Bereg HQ",
-    "url": "http://radio.bereg.by:8000/HQ_320.mp3"
+    "name": "104.6 RTL - Elektro",
+    "url": "https://stream.104.6rtl.com/elektro/mp3-192"
+  },
+  {
+    "name": "101.ru - Electro",
+    "url": "https://pub0202.101.ru:8443/stream/trust/mp3/128/7"
+  },
+  {
+    "name": "s1.radioparty",
+    "url": "https://s1.radioparty.pl:8000/house"
   }
 ]
