@@ -23,8 +23,16 @@
     "name": "Авторадио",
     "url": "http://pub0101.101.ru:8000/stream/reg/mp3/128/region_avto_154	"
   },
+{
+    "name": "s1.radioparty1",
+    "url": "https://s1.radioparty.pl:8005/"
+  },
   {
-    "name": "s1.radioparty",
+    "name": "s1.radioparty2",
+    "url": "https://s1.radioparty.pl:7005/"
+  },
+  {
+    "name": "s1.radioparty3",
     "url": "https://s1.radioparty.pl:8000/house"
   }
 ]
