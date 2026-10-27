@@ -15,11 +15,11 @@
     "name": "Studio 21",
     "url": "http://stream.europapluskirov.ru:8000/studio21_kirov"
   },
-   {
+  {
     "name": "Авторадио",
-    "url": "http://pub0101.101.ru:8000/stream/reg/mp3/128/region_avto_154	"
+    "url": "http://pub0101.101.ru:8000/stream/reg/mp3/128/region_avto_154"
   },
-{
+  {
     "name": "s1.radioparty1",
     "url": "https://s1.radioparty.pl:8005/"
   },
@@ -30,5 +30,105 @@
   {
     "name": "s1.radioparty3",
     "url": "https://s1.radioparty.pl:8000/house"
+  },
+  {
+    "name": "RECORD",
+    "url": "https://radio-srv1.11one.ru/record192k.mp3"
+  },
+  {
+    "name": "radio V SETI",
+    "url": "http://streamer.radiovseti.ru:8000/320"
+  },
+  {
+    "name": "LoFi Radio",
+    "url": "https://live.lofiradio.ru/vibe_mp3_128"
+  },
+  {
+    "name": "maximum",
+    "url": "http://maximum.hostingradio.ru/maximum128.mp3"
+  },
+  {
+    "name": "DFM (borneo)",
+    "url": "http://live.borneo.ru:8888/dfm128"
+  },
+  {
+    "name": "Enjoy",
+    "url": "http://radioenjoy.org:8000/app/d128"
+  },
+  {
+    "name": "DFM (vdfm)",
+    "url": "https://listen.vdfm.ru:8000/radio7"
+  },
+  {
+    "name": "radio head",
+    "url": "https://s0.radioheart.ru:8000/RH75656"
+  },
+  {
+    "name": "russkoe radio",
+    "url": "http://23.105.238.4/rusradio128.mp3"
+  },
+  {
+    "name": "europa +",
+    "url": "http://eptop128server.streamr.ru:8033/eptop128"
+  },
+  {
+    "name": "comedy radio",
+    "url": "http://pub0101.101.ru:8000/stream/reg/mp3/128/region_comedy_31"
+  },
+  {
+    "name": "Central Social 3D",
+    "url": "http://streams.centralsocial3d.com:8258/"
+  },
+  {
+    "name": "RadiArt",
+    "url": "http://radiart.eu:8280/stream"
+  },
+  {
+    "name": "Equinox Radio",
+    "url": "http://equinox.shoutca.st:8127/"
+  },
+  {
+    "name": "Radio Maria Belarus",
+    "url": "http://server.radiorm.by:8000/live"
+  },
+  {
+    "name": "Katolickie Radio",
+    "url": "http://rvia.ostnet.pl:8040/;"
+  },
+  {
+    "name": "goa1",
+    "url": "https://trance.out.airtime.pro:8000/trance_a"
+  },
+  {
+    "name": "SomaFM Groove Salad",
+    "url": "https://ice5.somafm.com/groovesalad-128-mp3"
+  },
+  {
+    "name": "SomaFM Fluid",
+    "url": "https://ice5.somafm.com/fluid-128-mp3"
+  },
+  {
+    "name": "SomaFM Indie Pop Rocks",
+    "url": "https://ice4.somafm.com/indiepop-128-aac"
+  },
+  {
+    "name": "Radio Record Deep",
+    "url": "https://radiorecord.hostingradio.ru/deep96.aacp"
+  },
+  {
+    "name": "Radio Record Chill-Out",
+    "url": "https://radiorecord.hostingradio.ru/chil96.aacp"
+  },
+  {
+    "name": "Radio Record Rock",
+    "url": "https://radiorecord.hostingradio.ru/rock96.aacp"
+  },
+  {
+    "name": "Nightwave Plaza",
+    "url": "https://radio.plaza.one/mp3"
+  },
+  {
+    "name": "Радио Эрмитаж",
+    "url": "https://hermitage.hostingradio.ru/hermitage128.mp3"
   }
 ]
