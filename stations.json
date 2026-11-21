@@ -1,7 +1,7 @@
 [
   {
     "name": "Beatport Trance",
-    "url": "https://stream-176.surfernetwork.com/1zvh46ekrv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxenZoNDZla3J2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImhKTlRNa2Z3UXU2bFltcHZQcUxUc0EiLCJpYXQiOjE3OTUyOTA3NjEsImV4cCI6MTc5NTI5MDgyMX0.zSsCFyElH9tliXKfvXGqpMxSIGoblG8Hj6AJlL0VKXg"
+    "url": "https://stream.zeno.fm/1zvh46ekrv8uv"
   },
   {
     "name": "Central Social 3D",
@@ -49,11 +49,15 @@
   },
   {
     "name": "Powertrance One",
-    "url": "https://powertrance-one.stream.laut.fm/powertrance-one?uuid=a0f49be8-0ad0-e7dc-b435-078dc55b70ae&t302=2026-11-21_20-52-41"
+    "url": "https://powertrance-one.stream.laut.fm/powertrance-one?uuid=db01ebaa-bda8-e171-a648-6e2a1187ce94&t302=2026-11-21_21-10-48"
   },
   {
     "name": "RadiArt",
     "url": "http://radiart.eu:8280/stream"
+  },
+  {
+    "name": "radio head",
+    "url": "https://s0.radioheart.ru:8000/RH75656"
   },
   {
     "name": "radio V SETI",
@@ -113,7 +117,7 @@
   },
   {
     "name": "Katolickie Radio Zamość",
-    "url": "https://n04-eu2.rcs.revma.com/0n8y7mxcay8uv?rj-ttl=5&rj-tok=AAABof-z7TIAoWdHlJ8jeZ5DUQ"
+    "url": "https://n04-eu3.rcs.revma.com/0n8y7mxcay8uv?rj-ttl=5&rj-tok=AAABof_EgVkAmHbQEB5fLGYrwg"
   },
   {
     "name": "Radio Maria Belarus",
