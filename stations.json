@@ -1,152 +1,122 @@
 [
   {
     "name": "Beatport Trance",
-    "category": "Music",
-    "url": "https://stream-176.surfernetwork.com/1zvh46ekrv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxenZoNDZla3J2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI3MEwxUklSZFR3eTVSbTh4NDUxNkNRIiwiaWF0IjoxNzk1Mjg1NDA1LCJleHAiOjE3OTUyODU0NjV9.kghaU98dgQU6MupV5sZjK-AwdZ6JJo7B0TL4-9Ophs4"
+    "url": "https://stream-176.surfernetwork.com/1zvh46ekrv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxenZoNDZla3J2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI3Tllpajl5aVNrR0cwRWFHRUtuakdnIiwiaWF0IjoxNzk1Mjg1ODk4LCJleHAiOjE3OTUyODU5NTh9.DYDI2wFR9DgKWL-_y05G9zqsoLkWQhpJGsMpbHHBOaM"
   },
   {
     "name": "COOLFM Trance / Elektro",
-    "category": "Music",
     "url": "https://mediagw.e-tiger.net/stream/zc14"
   },
   {
     "name": "DFM (borneo)",
-    "category": "Music",
     "url": "http://live.borneo.ru:8888/dfm128"
   },
   {
     "name": "DFM (vdfm)",
-    "category": "Music",
     "url": "https://listen.vdfm.ru:8000/radio7"
   },
   {
     "name": "europa +",
-    "category": "Music",
     "url": "http://eptop128server.streamr.ru:8033/eptop128"
   },
   {
     "name": "goa1",
-    "category": "Music",
     "url": "https://trance.out.airtime.pro:8000/trance_a"
   },
   {
     "name": "LoFi Radio",
-    "category": "Music",
     "url": "https://live.lofiradio.ru/vibe_mp3_128"
   },
   {
     "name": "maximum",
-    "category": "Music",
     "url": "http://maximum.hostingradio.ru/maximum128.mp3"
   },
   {
     "name": "Mix 4 ME Radio",
-    "category": "Music",
     "url": "https://s9.webradio-hosting.com/proxy/mix4me/stream"
   },
   {
     "name": "Nightwave Plaza",
-    "category": "Music",
     "url": "https://radio.plaza.one/mp3"
   },
   {
     "name": "Powertrance One",
-    "category": "Music",
-    "url": "https://powertrance-one.stream.laut.fm/powertrance-one?t302=2026-11-21_19-23-25&uuid=eb98c589-d0f8-eb22-80be-2c96cca1f86b"
+    "url": "https://powertrance-one.stream.laut.fm/powertrance-one?uuid=aaeb90ec-6da9-d32c-801f-ee758b379f8c&t302=2026-11-21_19-31-38"
   },
   {
     "name": "RadiArt",
-    "category": "Music",
     "url": "http://radiart.eu:8280/stream"
   },
   {
     "name": "radio head",
-    "category": "Music",
     "url": "https://s0.radioheart.ru:8000/RH75656"
   },
   {
     "name": "radio V SETI",
-    "category": "Music",
     "url": "http://streamer.radiovseti.ru:8000/320"
   },
   {
     "name": "RadioFTB.net - Trance",
-    "category": "Music",
     "url": "https://play.radioftb.net:8028/;"
   },
   {
     "name": "RECORD",
-    "category": "Music",
     "url": "https://radio-srv1.11one.ru/record192k.mp3"
   },
   {
     "name": "russkoe radio",
-    "category": "Music",
     "url": "http://23.105.238.4/rusradio128.mp3"
   },
   {
     "name": "s1.radioparty1",
-    "category": "Music",
     "url": "https://s1.radioparty.pl:8005/"
   },
   {
     "name": "s1.radioparty2",
-    "category": "Music",
     "url": "https://s1.radioparty.pl:7005/"
   },
   {
     "name": "s1.radioparty3",
-    "category": "Music",
     "url": "https://s1.radioparty.pl:8000/house"
   },
   {
     "name": "SomaFM Fluid",
-    "category": "Music",
     "url": "https://ice5.somafm.com/fluid-128-mp3"
   },
   {
     "name": "SomaFM Groove Salad",
-    "category": "Music",
     "url": "https://ice5.somafm.com/groovesalad-128-mp3"
   },
   {
     "name": "Studio 21",
-    "category": "Music",
     "url": "http://stream.europapluskirov.ru:8000/studio21_kirov"
   },
   {
     "name": "Ultra Max  Vocal Trance",
-    "category": "Music",
     "url": "https://chanel4.nc-2serverdom.pl/stream"
   },
   {
     "name": "Радио Тест рекорд",
-    "category": "Music",
     "url": "https://air.unmixed.ru/record320"
   },
   {
     "name": "Katolickie Radio",
-    "category": "Religion",
     "url": "http://rvia.ostnet.pl:8040/;"
   },
   {
     "name": "Katolickie Radio Ciechanów FM",
-    "category": "Religion",
     "url": "https://s1.slotex.pl:7762/;"
   },
   {
     "name": "Katolickie Radio Zamość",
-    "category": "Religion",
-    "url": "https://n04-eu1.rcs.revma.com/0n8y7mxcay8uv?rj-ttl=5&rj-tok=AAABof9icUoAGkyFl7xetBeofw"
+    "url": "https://n06-eu1.rcs.revma.com/0n8y7mxcay8uv?rj-ttl=5&rj-tok=AAABof9p99AAIwwSmH67Bd9O_Q"
   },
   {
     "name": "Radio Maria Belarus",
-    "category": "Religion",
     "url": "http://server.radiorm.by:8000/live"
   },
   {
     "name": "SLAM! Juize",
-    "category": "Other",
     "url": "https://go-audio.toya.net.pl/219"
   }
 ]
