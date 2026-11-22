@@ -1,298 +1,62 @@
 [
   {
-    "name": "897",
-    "url": "https://c34.radioboss.fm:8106/stream"
-  },
-  {
-    "name": "ABN Radio",
-    "url": "https://radio.andrew-lviv.net/abn128"
-  },
-  {
-    "name": "Back2Noize Radio",
-    "url": "https://securestreams4.autopo.st:1558/Back2Noize"
-  },
-  {
-    "name": "Beatport Trance",
-    "url": "https://stream.zeno.fm/1zvh46ekrv8uv"
-  },
-  {
-    "name": "Cavo Paradiso",
-    "url": "http://s5.onweb.gr:8488/"
-  },
-  {
-    "name": "Center Waves Radio",
-    "url": "http://kathy.torontocast.com:1270/stream"
-  },
-  {
-    "name": "Central Social 3D",
-    "url": "http://streams.centralsocial3d.com:8258/"
-  },
-  {
-    "name": "CLUB DANCE MUSIC",
-    "url": "https://stream.zeno.fm/5x4sda9kxtzuv"
-  },
-  {
-    "name": "Club FM GR",
-    "url": "https://stream-32.zeno.fm/z8cp1nqwhnruv?zs=sUtan8GnTDGarEqChfudfg&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb"
-  },
-  {
-    "name": "COOLFM Trance / Elektro",
-    "url": "https://mediagw.e-tiger.net/stream/zc14"
-  },
-  {
-    "name": "Dance Attack FM (danceattack.fm) 128k MP3",
-    "url": "http://streaming04.liveboxstream.uk:8045/1"
-  },
-  {
-    "name": "Dance Club Radio",
-    "url": "https://ice4.abradio.cz/dance128.mp3"
-  },
-  {
-    "name": "Dance UK Radio danceradiouk",
-    "url": "http://51.89.148.171:8022/stream"
-  },
-  {
     "name": "Dance Wave! | MP3",
     "url": "http://stream1.dancewave.online:8080/dance.mp3"
-  },
-  {
-    "name": "Dancevibes Radio",
-    "url": "https://everestcast.live-streams.nl:8025/stream"
-  },
-  {
-    "name": "Dancezone",
-    "url": "http://dancezone.stream.laut.fm/dancezone"
-  },
-  {
-    "name": "Deep in Radio",
-    "url": "http://s3.viastreaming.net:8525/"
-  },
-  {
-    "name": "DFM (borneo)",
-    "url": "http://live.borneo.ru:8888/dfm128"
-  },
-  {
-    "name": "DFM (vdfm)",
-    "url": "https://listen.vdfm.ru:8000/radio7"
-  },
-  {
-    "name": "DJ BronKo",
-    "url": "http://djbronko.stream.laut.fm/djbronko?uuid=439f3fd2-54bb-792a-7796-cc8982938d80&t302=2026-11-21_21-49-30"
-  },
-  {
-    "name": "Dosis Electrónica Radio",
-    "url": "https://stream.zeno.fm/1zc80p7dyzzuv"
-  },
-  {
-    "name": "Doubleclap Radio",
-    "url": "https://s3.radio.co/scfd7273b2/listen"
-  },
-  {
-    "name": "EDM Sessions",
-    "url": "https://s2.radio.co/s30844a0f4/listen"
-  },
-  {
-    "name": "Energy FM - Dance Music Radio",
-    "url": "https://radio.streemlion.com:1875/stream"
-  },
-  {
-    "name": "Equinox Radio",
-    "url": "http://equinox.shoutca.st:8127/"
-  },
-  {
-    "name": "euer-radio (www.Euer - Radio.DE)",
-    "url": "http://s2.euer.tv/audio320"
-  },
-  {
-    "name": "europa +",
-    "url": "http://eptop128server.streamr.ru:8033/eptop128"
-  },
-  {
-    "name": "Exclusively Mobi",
-    "url": "https://streaming.exclusive.radio/er/moby/icecast.audio"
-  },
-  {
-    "name": "Generation Dance Radio",
-    "url": "https://radio.gen.dance/radio/8030/hd"
-  },
-  {
-    "name": "goa1",
-    "url": "https://trance.out.airtime.pro:8000/trance_a"
-  },
-  {
-    "name": "Haus Radio",
-    "url": "http://hausradio.stream.laut.fm:8080/hausradio"
   },
   {
     "name": "Intense Radio - We love Dance 256K",
     "url": "https://secure.live-streams.nl/main"
   },
   {
-    "name": "KIDS RAVE RADIO",
-    "url": "http://s3.radio.co/se1c4cc1fb/listen"
+    "name": "Anon.FM",
+    "url": "https://icecast.anon.fm/radio"
   },
   {
-    "name": "laut.fm - clubhits",
-    "url": "http://clubhits.stream.laut.fm/clubhits?uuid=09e73484-6dbd-defb-c340-a726346e07f5&t302=2026-11-21_21-49-19"
+    "name": "DiscoverTranceRadio (MP3 HQ stereo 192kBit/s)",
+    "url": "http://uk01.discovertrance.com//"
   },
   {
-    "name": "Laut.FM House-Nation",
-    "url": "http://house-nation.stream.laut.fm/house-nation?uuid=da848413-0e89-c3bf-0b66-46cc1400110f&t302=2026-11-21_21-49-20"
+    "name": "1.FM - Amsterdam Trance Radio",
+    "url": "http://strm112.1.fm/atr_mobile_mp3"
   },
   {
-    "name": "Laut.fm/radioparty",
-    "url": "http://radioparty.stream.laut.fm/radioparty?t302=2026-11-17_10-58-38&uuid=238493f5-9e6d-be16-7d43-b2d02c4a64e1"
+    "name": "1.FM - BOM Psytrance Radio",
+    "url": "http://strm112.1.fm/psytrance_mobile_mp3"
   },
   {
-    "name": "Laut.fm/radioparty",
-    "url": "http://radioparty.stream.laut.fm/radioparty"
+    "name": "Deep in Radio",
+    "url": "http://s3.viastreaming.net:8525/"
   },
   {
-    "name": "LoFi Radio",
-    "url": "https://live.lofiradio.ru/vibe_mp3_128"
-  },
-  {
-    "name": "maximum",
-    "url": "http://maximum.hostingradio.ru/maximum128.mp3"
-  },
-  {
-    "name": "Mix 4 ME Radio",
-    "url": "https://s9.webradio-hosting.com/proxy/mix4me/stream"
-  },
-  {
-    "name": "MixLive - Progressive & Tech-house",
-    "url": "https://strw3.openstream.co/939"
-  },
-  {
-    "name": "Must-X GR",
-    "url": "https://stream.radiomustathens.com/must-x?app=true&refer="
-  },
-  {
-    "name": "Nightwave Plaza",
-    "url": "https://radio.plaza.one/mp3"
-  },
-  {
-    "name": "Powertrance One",
-    "url": "https://powertrance-one.stream.laut.fm/powertrance-one?t302=2026-11-21_21-49-46&uuid=d4ed990a-ae8b-84cf-86df-50eb8bcd7a3c"
-  },
-  {
-    "name": "PulseEDM",
+    "name": "PulseEDM Dance Music Radio",
     "url": "http://pulseedm.cdnstream1.com:8124/1373_128"
   },
   {
-    "name": "RadiArt",
-    "url": "http://radiart.eu:8280/stream"
+    "name": "PulsRadio 90's",
+    "url": "http://213.251.190.165/puls90HD.mp3"
   },
   {
-    "name": "Radio Disco Party - Club",
-    "url": "https://s3.slotex.pl:7354/stream/1/"
+    "name": "1.FM - Ambient Psychill",
+    "url": "http://strm112.1.fm/ambientpsy_mobile_mp3"
   },
   {
-    "name": "Radio Freedom (MP3)",
-    "url": "http://stream.zeno.fm/sbm7c72dbkhvv"
+    "name": "1.FM - Absolute Trance (Euro) Radio",
+    "url": "http://strm112.1.fm/trance_mobile_mp3"
   },
   {
-    "name": "radio head",
-    "url": "https://s0.radioheart.ru:8000/RH75656"
+    "name": "ESKA GORĄCA 100",
+    "url": "http://ic1.smcdn.pl/6120-1.mp3"
   },
   {
-    "name": "RADIO INSIDE",
-    "url": "http://s03.diazol.hu:7230/192"
+    "name": "Psyndora Chillout",
+    "url": "http://cast.magicstreams.gr:9125/stream"
   },
   {
-    "name": "Radio Sto",
-    "url": "http://s3.slotex.pl:7278/stream"
+    "name": "Dance UK Radio danceradiouk",
+    "url": "http://51.89.148.171:8022/stream"
   },
   {
-    "name": "radio V SETI",
-    "url": "http://streamer.radiovseti.ru:8000/320"
-  },
-  {
-    "name": "Radio X Basel (MP3 Stream)",
-    "url": "http://mp3.radiox.ch:8000/standard.mp3"
-  },
-  {
-    "name": "RadioFTB.net - Trance",
-    "url": "https://play.radioftb.net:8028/;"
-  },
-  {
-    "name": "RECORD",
-    "url": "https://radio-srv1.11one.ru/record192k.mp3"
-  },
-  {
-    "name": "russkoe radio",
-    "url": "http://23.105.238.4/rusradio128.mp3"
-  },
-  {
-    "name": "s1.radioparty1",
-    "url": "https://s1.radioparty.pl:8005/"
-  },
-  {
-    "name": "s1.radioparty2",
-    "url": "https://s1.radioparty.pl:7005/"
-  },
-  {
-    "name": "s1.radioparty3",
-    "url": "https://s1.radioparty.pl:8000/house"
-  },
-  {
-    "name": "Side Street Radio",
-    "url": "https://www.ophanim.net:8444/s/9780"
-  },
-  {
-    "name": "SomaFM Fluid",
-    "url": "https://ice5.somafm.com/fluid-128-mp3"
-  },
-  {
-    "name": "SomaFM Groove Salad",
-    "url": "https://ice5.somafm.com/groovesalad-128-mp3"
-  },
-  {
-    "name": "Studio 21",
-    "url": "http://stream.europapluskirov.ru:8000/studio21_kirov"
-  },
-  {
-    "name": "Technotune",
-    "url": "http://technotune.stream.laut.fm/technotune?uuid=45bedc5d-5ca8-3e27-7672-c22fe2323f0c&t302=2026-11-21_21-49-28"
-  },
-  {
-    "name": "Trancetechnic Radio",
-    "url": "https://s11.ssl-stream.com/ssl/trancete?mp=/stream"
-  },
-  {
-    "name": "UK Bass Radio",
-    "url": "https://s2.ssl-stream.com/listen/uk_bass_radio/stream"
-  },
-  {
-    "name": "Ultra Max  Vocal Trance",
-    "url": "https://chanel4.nc-2serverdom.pl/stream"
-  },
-  {
-    "name": "Ática FM 106.4",
-    "url": "https://server8.emitironline.com:18571/atica"
-  },
-  {
-    "name": "Радио Тест рекорд",
-    "url": "https://air.unmixed.ru/record320"
-  },
-  {
-    "name": "Katolickie Radio",
-    "url": "http://rvia.ostnet.pl:8040/;"
-  },
-  {
-    "name": "Katolickie Radio Ciechanów FM",
-    "url": "https://s1.slotex.pl:7762/;"
-  },
-  {
-    "name": "Katolickie Radio Zamość",
-    "url": "https://n04-eu3.rcs.revma.com/0n8y7mxcay8uv?rj-ttl=5&rj-tok=AAABof_nqfkAca9bumA9_52YHA"
-  },
-  {
-    "name": "Radio Maria Belarus",
-    "url": "http://server.radiorm.by:8000/live"
-  },
-  {
-    "name": "SLAM! Juize",
-    "url": "https://go-audio.toya.net.pl/219"
+    "name": "Beirut Nights Radio (AAC)",
+    "url": "http://byblosnights.com:6190/"
   }
 ]
